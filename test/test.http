@@ -1,5 +1,7 @@
+# POST https://webhook.tmiyapub.com/
 POST http://localhost:3000/
 Content-Type: application/json
+x-line-signature: xxxxxxx
 
 {
   "destination": "xxxxxxxxxx",
